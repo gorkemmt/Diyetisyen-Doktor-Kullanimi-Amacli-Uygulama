@@ -1,0 +1,23 @@
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\bin\Debug\yzmmimariproje_v1.exe.config
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\bin\Debug\yzmmimariproje_v1.exe
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\bin\Debug\yzmmimariproje_v1.pdb
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.admin.resources
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.diyetisyen.resources
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.Form1.resources
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.exe
+C:\Users\Görkem\Desktop\yazılım mimarisi proje\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.pdb
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\bin\Debug\yzmmimariproje_v1.exe
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\bin\Debug\yzmmimariproje_v1.pdb
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.Form1.resources
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.Properties.Resources.resources
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.exe
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.pdb
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.admin_ekrani.resources
+C:\Users\Görkem\Desktop\yzmmimariproje_v1\yzmmimariproje_v1\obj\Debug\yzmmimariproje_v1.diyetisyen_ekrani.resources
